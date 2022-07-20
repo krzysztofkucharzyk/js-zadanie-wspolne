@@ -1,1 +1,6 @@
-console.log('Common task');
+function commonTask () {
+    
+    return console.log('Common task');
+}
+
+commonTask();
