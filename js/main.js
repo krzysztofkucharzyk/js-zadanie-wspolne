@@ -4,4 +4,4 @@ function commonTask (wzrost) {
     console.log('Wzrost ' + wzrost);
 }
 
-commonTask(wzrost);
+commonTask(100);
